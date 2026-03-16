@@ -39,6 +39,14 @@ features:
     ghes: true
 
 languages:
+  AL:
+    copilot: 'supported'
+    codeNavigation: 'not-supported'
+    codeScanning: 'supported'
+    depGraph: 'not-supported'
+    depUpdates: 'not-supported'
+    actions: 'supported'
+    packages: 'not-supported'
   C:
     copilot: 'supported'
     codeNavigation: 'not-supported'
